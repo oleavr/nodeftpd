@@ -3,6 +3,10 @@
   "version": "0.2.14",
   "description": "Node FTP Server",
   "main": "./ftpd.js",
+  "files": [
+    "/ftpd.js",
+    "/lib/**/*.js"
+  ],
   "engines": {
     "node": ">=0.10.0"
   },
