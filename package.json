@@ -1,5 +1,5 @@
 {
-  "name": "ftpd",
+  "name": "@oleavr/ftpd",
   "version": "0.2.14",
   "description": "Node FTP Server",
   "main": "./ftpd.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sstur/nodeftpd.git"
+    "url": "https://github.com/oleavr/nodeftpd.git"
   },
   "keywords": [
     "ftp",
@@ -108,7 +108,7 @@
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/sstur/nodeftpd/issues"
+    "url": "https://github.com/oleavr/nodeftpd/issues"
   },
   "dependencies": {
     "dateformat": "1.0.7-1.2.3",
